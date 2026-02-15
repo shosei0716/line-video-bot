@@ -43,8 +43,8 @@ module.exports = async (req, res) => {
         messages: [
           {
             type: "video",
-            originalContentUrl: "https://example.com/sample.mp4",
-            previewImageUrl: "https://example.com/preview.jpg",
+            originalContentUrl: "https://www.w3schools.com/html/mov_bbb.mp4",
+            previewImageUrl: "https://dummyimage.com/480x360/000/fff.jpg&text=Preview",
           },
         ],
       });
